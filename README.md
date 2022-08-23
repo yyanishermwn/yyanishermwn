@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, im Yulius Yanis Hermawan</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Web Developer and Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyanishermwn&label=Profile%20views&color=0e75b6&style=flat" alt="yyanishermwn" /> </p>
 
